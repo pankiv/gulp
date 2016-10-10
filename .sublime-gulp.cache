@@ -1,0 +1,1 @@
+{"C:\\Users\\WEB\\Desktop\\gulp\\mee2\\gulpfile.js":{"sha1":"3ec052c4cddd8f6134e4b57e32e8cb8f9fcc1606","tasks":{"browser-sync":{"name":"browser-sync","dependencies":""},"sass":{"name":"sass","dependencies":""},"libs":{"name":"libs","dependencies":""},"imagemin":{"name":"imagemin","dependencies":""},"watch":{"name":"watch","dependencies":"sass libs browser-sync"}}}}
